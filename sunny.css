@@ -673,7 +673,12 @@ footer {
 
     .link{
 
-        margin-left: 530px;
+        margin-left: 510px;
+    }
+
+    .link a {
+
+        margin-left: 40px;
     }
 
     .social {
