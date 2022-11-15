@@ -202,7 +202,7 @@ body{
     font-family: 'Fraunces', serif;
     font-weight: 700;
     width: 300px;
-    margin-left: 35px;
+    margin-left: 45px;
     color: hsl(212, 27%, 19%);
 }
 
@@ -226,12 +226,12 @@ body{
 
 .audience p {
     width: 320px;
-    margin-left: 30px;
+    margin-left: 40px;
 }
 
 .brand p {
   
-  margin-left:20px;
+  margin-left:27px;
 
 }
 
@@ -309,7 +309,7 @@ margin-left:20px;
 }
 .photography h2 {
 
-    margin-left: 90px;
+    
     color:hsl(198, 62%, 26%)
 }
 
