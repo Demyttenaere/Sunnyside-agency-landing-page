@@ -270,7 +270,7 @@ body{
 .design h2, .photography h2 {
 
     margin-top: 400px;
-    margin-left: 80px;
+    margin-left: 100px;
     font-size: 30px;
     font-family: 'Fraunces', serif;
     font-weight: 700;
@@ -288,8 +288,17 @@ body{
     color: hsl(167, 40%, 24%);
     line-height: 30px;
     width: 350px;
-    margin-left: 30px;
+    
 }
+.photography p {
+  margin-left: 30px;
+}
+
+.design p {
+
+margin-left:20px;
+}
+
 
 .photography {
 
