@@ -131,10 +131,7 @@ body{
 
     }
 
-    .brand p, .audience p {
-
-        margin-left: 75px;
-    }
+   
 
     .testimonials p {
 
@@ -218,7 +215,7 @@ body{
     color:hsl(232, 10%, 55%);
     line-height: 30px;
     width: 350px;
-    margin-left: 11px;
+ 
     margin-bottom: 30px;
 }
 
@@ -229,7 +226,13 @@ body{
 
 .audience p {
     width: 320px;
-    margin-left: 27px;
+    margin-left: 30px;
+}
+
+.brand p {
+  
+  margin-left:20px;
+
 }
 
 .brand a, .audience a {
@@ -285,7 +288,7 @@ body{
     color: hsl(167, 40%, 24%);
     line-height: 30px;
     width: 350px;
-    margin-left: 40px;
+    margin-left: 30px;
 }
 
 .photography {
